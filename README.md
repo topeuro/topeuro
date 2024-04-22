@@ -1,9 +1,9 @@
 &nbsp;<div align="center">
-<img src="https://avatars.githubusercontent.com/u/132208831?v=4" width='200' height='200'>
+<img src="https://avatars.githubusercontent.com/u/159063080?v=4" width='200' height='200'>
   ![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
 </div>
 <h2 align="center">
- <img src="https://avatars.githubusercontent.com/u/159063080?v=4" width='80'>
+ <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
  Hi, there!
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
 </h2>
