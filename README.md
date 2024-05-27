@@ -40,7 +40,7 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
      <a href="https://stats.hyochan.dev/en/stats/byteslinger"><img src="https://stats.hyochan.dev/api/github-stats?login=byteslinger" width="600" /></a>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=byteslinger&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 -->
-      <h3 align="center">Example Sites</h3>
+      <h3 align="center">Work Experience</h3>
 
 ###
 
