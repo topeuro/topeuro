@@ -1,6 +1,6 @@
 &nbsp;<div align="center">
-<img src="https://avatars.githubusercontent.com/u/159063080?v=4" width='200' height='200'>
- 
+<img src="https://avatars.githubusercontent.com/u/159063080?v=4" width='200' height='200'/>
+ <img src="https://github.com/topeuro/topeuro/blob/main/372102230_BITCOIN_400px.gif" width='200' height='200'/>
 </div>
 <h2 align="center">
  <img src="https://media.giphy.com/media/NZGAxVxfOvOzEhjQ7M/giphy.gif" width='80'>
@@ -45,15 +45,15 @@ Ready for an opportunity to use my skills to grow your business and revenue expo
 ###
 
 <div align="center">
-  https://lightning-farron-fi.vercel.app/
+  https://beefi.app/
   <br/>
-https://nika-tawny.vercel.app/
+https://coinhunt.cc/
   <br/>
-https://noctis-caelum-me.vercel.app/
+https://www.toadswap.org/
   <br/>
-https://inori-yuzuriha-me.vercel.app/
+https://nomiswap.io/
   <br/>
-https://mari-illustrious-me.vercel.app/
+https://parasol.finance/
   <br/>
 </div>
 <h2 align="center">🛠 Language and tools</h2>
